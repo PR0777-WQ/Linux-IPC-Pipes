@@ -1,9 +1,12 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-Name: GAUTHAM KRISHNA S
+# Linux-IPC--Pipes
+Linux-IPC-Pipes
 
-Regno: 212223240036
+Name: G.NITIN KARTHIKEYAN
+
+Regno: 212224040227
 
 # Ex03-Linux IPC - Pipes
 
@@ -105,3 +108,5 @@ exit(EXIT_SUCCESS);
 
 # RESULT:
 The program is executed successfully.
+
+
